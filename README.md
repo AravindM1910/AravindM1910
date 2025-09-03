@@ -1,38 +1,35 @@
 <!-- Animated Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=✨+Hi%2C+I'm+Aravind+M+✨;💻+Backend+Developer;🚀+DevOps+Enthusiast;☁+Cloud+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=✨+Hi%2C+I'm+Aravind+M+✨;💻+Backend+Developer;🚀+DevOps+Enthusiast;☁️+Cloud+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-<h3 align="center">💻 Backend Developer | 🚀 DevOps Enthusiast | ☁ Cloud Learner</h3>
+<h3 align="center">💻 Backend Developer | 🚀 DevOps Enthusiast | ☁️ Cloud Learner</h3>
 
 ---
 
 ### 🌟 About Me  
-- 🔭 Currently working on *Backend Systems & Automation*  
-- ⚡ Exploring *DevOps (CI/CD, Docker, GitHub Actions, Kubernetes)*  
-- 🛠 Passionate about *Performance-focused backend design*  
-- 🤝 Open to collaborate on *Backend + DevOps Projects*  
-- 📫 Reach me at *yourmail@example.com*  
+- 🔭 Currently working on **Backend Systems & Automation**  
+- ⚡ Exploring **DevOps (CI/CD, Docker, GitHub Actions, Kubernetes)**  
+- 🛠️ Passionate about **Performance-focused backend design**  
+- 🤝 Open to collaborate on **Backend + DevOps Projects**  
+- 📫 Reach me at **[aravindmanoharan1910@gmaicom](mailto:aravindmanoharan1910@gmaicom)**  
 
 ---
 
 ### 🚀 What I’m Working On
-- 🧩 *Building Scalable Backend Systems*  
-- ⚙ *CI/CD Pipelines & Cloud Automation*  
+- 🧩 **Building Scalable Backend Systems**  
+- ⚙️ **CI/CD Pipelines & Cloud Automation**  
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
+  <a href="https://www.linkedin.com/in/aravind-m-2364a4290" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://reddit.com/user/yourprofile" target="blank">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@example.com" target="blank">
+  <a href="mailto:aravindmanoharan1910@gmaicom" target="blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -64,7 +61,7 @@
 
 ---
 
-### 🗄 Databases
+### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -97,6 +94,6 @@
 ### 📌 Top Projects
 - 🚀 [Project 1](https://github.com/YourGitHubUser/project1)  
 - ⚡ [Automation Tool](https://github.com/YourGitHubUser/project2)  
-- 💡 [Backend API](https://github.com/YourGitHubUser/project3)  
+- 💡 [Backend API](https://github.com/YourGitHubUser/project3)  
 
 ---
