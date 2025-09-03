@@ -1,35 +1,44 @@
-<!-- Animated Name -->
+<!-- Name with Gradient Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=✨+Hi%2C+I'm+Aravind+M+✨;💻+Backend+Developer;🚀+DevOps+Enthusiast;☁️+Cloud+Learner" alt="Typing SVG" />
+  <span style="font-size: 48px; font-weight: bold; background: linear-gradient(90deg, #FF00FF, #00FFFF, #FFFF00, #FF00FF);
+               -webkit-background-clip: text; color: transparent; animation: gradientAnimation 5s ease infinite;">
+    ✨ Hi, I'm Aravind M ✨
+  </span>
+</p>
+
+<style>
+@keyframes gradientAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
+---
+
+<!-- Typing Roles -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Antenna+Designer;PCB+Designer;Java+Programmer" alt="Typing SVG" />
 </p>
 
 ---
 
-<h3 align="center">💻 Backend Developer | 🚀 DevOps Enthusiast | ☁️ Cloud Learner</h3>
+<h3 align="center">🌟 About Me</h3>
 
----
-
-### 🌟 About Me  
 - 🔭 Currently working on **Backend Systems & Automation**  
 - ⚡ Exploring **DevOps (CI/CD, Docker, GitHub Actions, Kubernetes)**  
-- 🛠️ Passionate about **Performance-focused backend design**  
-- 🤝 Open to collaborate on **Backend + DevOps Projects**  
-- 📫 Reach me at **[aravindmanoharan1910@gmaicom](mailto:aravindmanoharan1910@gmaicom)**  
-
----
-
-### 🚀 What I’m Working On
-- 🧩 **Building Scalable Backend Systems**  
-- ⚙️ **CI/CD Pipelines & Cloud Automation**  
+- 🛠️ Passionate about **Antenna Design & PCB Development**  
+- 🤝 Open to collaborate on **Electronics & Backend Projects**  
+- 📫 Reach me at **[aravindmanoharan1910@gmail.com](mailto:aravindmanoharan1910@gmail.com)**  
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aravind-m-2364a4290" target="blank">
+  <a href="https://www.linkedin.com/in/aravind-m-2364a4290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:aravindmanoharan1910@gmaicom" target="blank">
+  <a href="mailto:aravindmanoharan1910@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -88,12 +97,3 @@
 
 ### 🔥 Contribution Graph
 [![Aravind M’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUser&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 📌 Top Projects
-- 🚀 [Project 1](https://github.com/YourGitHubUser/project1)  
-- ⚡ [Automation Tool](https://github.com/YourGitHubUser/project2)  
-- 💡 [Backend API](https://github.com/YourGitHubUser/project3)  
-
----
