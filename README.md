@@ -1,4 +1,10 @@
-<h1 align="center">✨ Hi there, I'm Aravind M ✨</h1>
+<!-- Animated Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=✨+Hi%2C+I'm+Aravind+M+✨;💻+Backend+Developer;🚀+DevOps+Enthusiast;☁+Cloud+Learner" alt="Typing SVG" />
+</p>
+
+---
+
 <h3 align="center">💻 Backend Developer | 🚀 DevOps Enthusiast | ☁ Cloud Learner</h3>
 
 ---
