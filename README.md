@@ -1,24 +1,31 @@
-<!-- Name with Gradient Animation -->
+<!-- Animated Name with Brightness Fade -->
 <p align="center">
-  <span style="font-size: 48px; font-weight: bold; background: linear-gradient(90deg, #FF00FF, #00FFFF, #FFFF00, #FF00FF);
-               -webkit-background-clip: text; color: transparent; animation: gradientAnimation 5s ease infinite;">
+  <span style="font-size: 64px; font-weight: bold; 
+               background: linear-gradient(90deg, #FF00FF, #00FFFF, #FFFF00, #FF4500, #FF00FF);
+               -webkit-background-clip: text; color: transparent;
+               animation: nameFade 3s ease-in-out infinite alternate;">
     ✨ Hi, I'm Aravind M ✨
   </span>
 </p>
 
 <style>
-@keyframes gradientAnimation {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
+@keyframes nameFade {
+  0% { filter: brightness(1); }
+  50% { filter: brightness(1.5); }
+  100% { filter: brightness(1); }
 }
 </style>
 
 ---
 
-<!-- Typing Roles -->
+<!-- Typing Roles Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Antenna+Designer;PCB+Designer;Java+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=🛠️+Antenna+Designer;🖥️+PCB+Designer;☕+Java+Programmer" alt="Typing SVG" />
+</p>
+
+<!-- Permanently Display Roles -->
+<p align="center" style="font-size:28px; font-weight:bold; color:#00F7FF; margin-top:10px;">
+  🛠️ Antenna Designer &nbsp; | &nbsp; 🖥️ PCB Designer &nbsp; | &nbsp; ☕ Java Programmer
 </p>
 
 ---
